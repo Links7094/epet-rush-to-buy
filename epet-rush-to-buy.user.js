@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  e宠商城抢购脚本
 // @author       Links
+// @license      MIT
 // @include      https://www.epet.com/
 // @include      https://cat.epet.com/
 // @match        <$URL$>
@@ -11,6 +12,9 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.16.0/polyfill.js
 // @grant        none
 // @run-at       document-end
+// @supportURL   https://github.com/Links7094/epet-rush-to-buy/issues
+// @updateURL    https://github.com/Links7094/epet-rush-to-buy/edit/master/epet-rush-to-buy.user.js
+// @date         09/27/2018
 // ==/UserScript==
 
 var inline_src = (<><![CDATA[
